@@ -41,7 +41,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
         I enjoy working with and for people and in doing so can be open-minded and look at situations from different angles. I am also open to trying new things and taking on challenges.
         Furthermore, I am sporty and social and love to be involved with computers and technology.  
@@ -75,43 +75,31 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Customer Support Technician
+        time: 2022 - 2023
+        company: Sitel/Sykes
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          *Working from home*
+           I was responsible for answering phone calls and responding to emails regarding technical questions about JBL and Harman Kardon products. 
+           *Programs i used:*
+            - SAP
+            - SalesForce
+            - Demandware
+      - role: Trainer
+        time: 2015 - 2017
+        company: Enjoy Sports
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Teaching freerunning, dance and gymnastics.  In the process, I learned a lot about communication with child and parent, safety, catching technical moves and the structural approach within an association.
+          Prepared and taught lessons independently. I also made promotional poster design.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Order picker
+        time: 2017 - 2018
+        company: Zebra Technologies
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         - Collecting requests for parts and dropping them off at the repair shop.
+		 - Unpacking, scanning and booking printers. Packing printers for transport. 
+		 - Moving wiring power and - internet due to remodeling. Improved and automated software/manual processes.
 
 certifications:
       title: Certifications
