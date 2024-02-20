@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: yorditaris@live.nl
-    website: blog.webjeda.com #do not add http://
+    website: Tarisworks.nl #do not add http://
     linkedin: YordiTaris
     pdf: https://rxresu.me/yordi/reactive-cv
 
@@ -43,7 +43,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-I enjoy working with and for people and in doing so can be open-minded and look at situations from different angles. I am also open to trying new things and taking on challenges. Furthermore, I am sporty and social and love to be involved with computers and technology.  
+I enjoy working with and for people and in doing so can be open-minded and look at situations from different angles. I am also open to trying new things and taking on challenges.
+Furthermore, I am sporty and social and love to be involved with computers and technology.  
+
 education:
     title: Education
     info:
