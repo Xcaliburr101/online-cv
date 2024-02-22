@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Yordi Taris
     tagline: Enthousiast
-    avatar: clp9kl5nn0fj5ecz4arkxyojw (1).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: photo.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yorditaris@live.nl
@@ -49,9 +49,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Sport, Service and Security
+        university: VMBO
+        time: 2010 - 2014
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -60,9 +60,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Teaching assistent
+        university: CIOS
+        time: 20015 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -103,10 +103,10 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: KNGU Assistant Gymnastics 
           start: 2020
           end: 2021
-          organization: Microsoft
+          organization: KNGU
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
@@ -124,7 +124,7 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Reachtruck certificate
           start: 2019
           end:
           organization: Microsoft
@@ -140,33 +140,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -194,23 +167,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Desinging
+        level: 75%
+
+      - name: Computer and IT
+        level: 80%
+
+      - name: Social
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Programming
+        level: 20%
 
-      - name: Angular
-        level: 98%
+      - name: Teaching
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Patientce
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
